@@ -1,3 +1,5 @@
 declare module "@ioc:Adonis/Addons/MeiliSearch" {
-  export * from "meilisearch";
+  import { MeiliSearch } from "meilisearch";
+
+  export default MeiliSearch;
 }
