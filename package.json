@@ -31,7 +31,7 @@
     "meilisearch"
   ],
   "dependencies": {
-    "meilisearch": "^0.35.1"
+    "meilisearch": "^0.36.0"
   },
   "devDependencies": {
     "@adonisjs/ace": "^11.3.1",
