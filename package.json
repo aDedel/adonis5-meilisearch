@@ -1,6 +1,6 @@
 {
   "name": "@dedel.alex/adonis5-meilisearch",
-  "version": "0.44.0",
+  "version": "0.44.1",
   "description": "MeiliSearch Provider for AdonisJS 5",
   "main": "build/providers/MeilisearchProvider.js",
   "author": "dedel.alex",
@@ -31,7 +31,7 @@
     "meilisearch"
   ],
   "dependencies": {
-    "meilisearch": "^0.44.0"
+    "meilisearch": "^0.44.1"
   },
   "devDependencies": {
     "@adonisjs/ace": "^11.3.1",
