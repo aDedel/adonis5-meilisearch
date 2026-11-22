@@ -3,7 +3,7 @@
 ## Install dependency
 
 ```bash
-npm i @dedel.alex/adonis5-meilisearch
+npm i @dedel.alex/adonis5-meilisearch meilisearch@^0.49
 ```
 
 ## Run command
