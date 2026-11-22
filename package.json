@@ -1,6 +1,6 @@
 {
   "name": "@dedel.alex/adonis5-meilisearch",
-  "version": "0.49.1",
+  "version": "1.0.10",
   "description": "MeiliSearch Provider for AdonisJS 5",
   "main": "build/providers/MeilisearchProvider.js",
   "author": "dedel.alex",
